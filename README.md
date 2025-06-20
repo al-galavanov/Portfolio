@@ -27,6 +27,4 @@
 ADAM-5511 (ADVANTECH) 
 
 ### **Программное обеспечение**
-Среда программирования **Ultralogik** https://www.cta.ru/cms/f/326715.pdf?ysclid=mc4lrcio3f636926306
-
-
+Среда программирования **Ultralogik** [Contribution guidelines for this project](docs/CONTRIBUTING.md)
