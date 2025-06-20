@@ -27,4 +27,4 @@
 ADAM-5511 (ADVANTECH) 
 
 ### **Программное обеспечение**
-Среда программирования **Ultralogik** [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+Среда программирования **Ultralogik** (docs/CONTRIBUTING.md)
