@@ -1,0 +1,27 @@
+// Структура оперативных параметров одной точки измерения системы автоматизации
+TYPE MEASURE_POINT :
+STRUCT
+   // Название точки измерения
+   wsPointName:	WSTRING(20);
+   // Текущее измеренное значение
+   rValue:	REAL; 
+   // Код ошибки аналогового входа
+   eStatus:	Mx210Assistant.ANALOG_SENSOR_ERRORS;
+   // Текстовое описание ошибки
+   wsStatus:	WSTRING; 
+   // Сигнал выхода значения за допустимый диапазон
+   xAlarm:	BOOL;
+END_STRUCT
+
+END_TYPE
+// Структура энергонезависимых параметров одной точки измерения системы автоматизации
+TYPE MEASURE_POINT_MEM :
+STRUCT
+   // Нижний допустимый предел значения
+   rLowAlarmValue:  REAL := 10.0;
+   // Верхний допустимый предел значения
+   rHighAlarmValue: REAL := 30.0;
+   // Экземпляр счетчика ошибок
+   fbAlarmCounter:  CTU;
+END_STRUCT
+END_TYPE
