@@ -1,4 +1,3 @@
-// Область кода
 
 FOR i := 1 TO c_iMeasurePointsCount DO
 
