@@ -1,1 +1,15 @@
+/Project_ASUTP_ITP
+├── /Docs
+│      ├── Hardware_Scheme (Схема подключения)
+│       └── IO_List.xlsx (Список сигналов)
+├── /Hardware
+│       └── Equipment_List.md - Список устройств
+├── /Software
+│      ├── /PLC - Экспорт проекта CODESYS (*.project)
+│       └── /HMI - Файлы WebVisu
+├── /Images
+│      ├── wiring_photo.jpg (Фото стенда)
+│      ├── hmi_screenshot.png (Скрин мнемосхемы)
+│       └── trend_example.png (График ПИД)
+└── README.md (Детальное описание проекта)
 
