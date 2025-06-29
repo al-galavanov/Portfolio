@@ -14,9 +14,9 @@
 ### Технический стек
 - ПЛК
 Advantech, ОВЕН, Дельта
-Программное обеспечение
-- CoDeSys
-- AutoCAD, nanoCAD
+- Программное обеспечение
+CoDeSys
+AutoCAD, nanoCAD
 - 
 
 ### Контакты
