@@ -22,5 +22,5 @@
 - DevOps
 
 ### Контакты
-- Email: a_galavanov@mail.ru
+- E-mail: a_galavanov@mail.ru
 - Telegram: @a_galavanov
