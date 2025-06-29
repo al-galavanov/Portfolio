@@ -15,9 +15,9 @@
 - ПЛК
     - Advantech, ОВЕН, Дельта
 - Программное обеспечение
-CoDeSys
-AutoCAD, nanoCAD
-- 
+    - CoDeSys
+- CAD
+    - AutoCAD, nanoCAD
 
 ### Контакты
 - E-mail: a_galavanov@mail.ru
