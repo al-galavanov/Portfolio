@@ -12,13 +12,14 @@
 - **Blog** - веду технический блог о ...
 
 ### Технический стек
-- ПЛК
+- Аппаратные платформы
     - Advantech, ОВЕН, Дельта
 - Программное обеспечение
     - CoDeSys
 - CAD
     - AutoCAD, nanoCAD
-
+- SCADA-системы:
+    - Master SCADA
 ### Контакты
 - E-mail: a_galavanov@mail.ru
 - Telegram: @a_galavanov
