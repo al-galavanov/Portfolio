@@ -12,14 +12,9 @@
 - **Blog** - веду технический блог о ...
 
 ### Технический стек
-- Python, FastAPI, Django
-- PostgreSQL, Redis
-- Docker, Kubernetes
-- CI/CD, GitHub Actions
-- Apache Spark
-- Микросервисная архитектура
-- Data Processing
-- DevOps
+- CoDeSys
+- AutoCAD, nsnoCAD
+- 
 
 ### Контакты
 - E-mail: a_galavanov@mail.ru
