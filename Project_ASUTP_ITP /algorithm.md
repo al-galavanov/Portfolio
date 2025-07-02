@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD;
-    A[Start] --> B[Process 1];
-    B --> C[Process 2];
-    C --> D[End];
+     A[Старт] --> B[Считать значение AI0];
+   
+     H --> K[Конец цикла];
 ```
